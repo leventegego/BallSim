@@ -43,5 +43,35 @@ indicated with different colors.
     - With the SPACE key, you can make all balls stop. This is different from a pause,
     in that this will not stop the simulation, but only make all velocities 0.
 
+## Examples
+
+### Billiard balls bouncing
+
+Billiard balls bounce around elastically.
+
+<p float="left">
+  <img src="./res/billiard1.png" width="400" />
+  <img src="./res/billiard2.png" width="400" />
+  <img src="./res/billiard3.png" width="400" />
+</p>
+
+### Moons orbiting
+
+Multiple moons orbit a single planet with large mass.
+
+<p float="left">
+  <img src="./res/orbit1.png" width="400" />
+  <img src="./res/orbit2.png" width="400" />
+  <img src="./res/orbit3.png" width="400" />
+  <img src="./res/orbit3.png" width="400" />
+</p>
+
+### Magnetic particles
+
+Particles with different charges attract and repel each other.
+
+<p float="left">
+  <img src="./res/magnetic.png" width="400" />
+</p>
 
 
