@@ -2,7 +2,7 @@
 
 GameWindow::GameWindow(int wx, int wy)
     : box(sf::Vector2f(wx, wy)), paused(false), doupdate(false), ballsize(20), balltype(0), pressed(false), // wx(wx), wy(wy),
-      window(sf::VideoMode(wx, wy), "hello", sf::Style::Titlebar | sf::Style::Close)
+      window(sf::VideoMode(wx, wy), "", sf::Style::Titlebar | sf::Style::Close)
 { }
 
 void GameWindow::run()
